@@ -37,9 +37,9 @@ please cut-and-paste the text from that email here._
     - Playbooks/Strategy
         - Many times, physical copies of playbooks float around the team's bench area. For the integrity of the sport and to ensure fans continue to believe games aren't rigged or fixed, we need to protect each team's playbook in the name of fairness. 
   - Stadium Staff
-        - Once again, like the spectators and players, the staff are people and their safety matters. Further, these people have special access to the stadium as they are employees so we must ensure they aren't engaging in dangerous/illegal behaviors. 
+    - Once again, like the spectators and players, the staff are people and their safety matters. Further, these people have special access to the stadium as they are employees so we must ensure they aren't engaging in dangerous/illegal behaviors. 
   - Stadium Structure 
-        - This asset is where all the above assets reside. We must ensure there is no danger to the stadium's structure as any weakness can force the whole stadium to collapse. This can cause irreplaceable damage including the loss of human lives and millions of dollars. 
+    - This asset is where all the above assets reside. We must ensure there is no danger to the stadium's structure as any weakness can force the whole stadium to collapse. This can cause irreplaceable damage including the loss of human lives and millions of dollars. 
 - Threats:
   - Small Crimes
     - Vandalism/Damage/Theft
@@ -111,16 +111,34 @@ please cut-and-paste the text from that email here._
     - For airline staff and those with pre-check/Clear, we need to ensure their credentials are in order and that their information has been freshly verified. This will ensure people don't abuse the system and slide through security through a faster, more convenient channel. The thoroughness of security should be constant in both scenarios. 
 
 ## Problem 3
-- Scenario: Your choice (give a brief explanation)
+- Scenario: {You oversee the Student IT Help Desk at Rice University}
 - Assumptions:
-  - explain_your_assumptions
+  - I assume we are considering the IT Help Desk during business hours, with moderate traffic. Further, I assume I am the lead in charge and there are no other adults around. 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Equipment
+    - This includes everything from the desktop computers and keyboards and chairs, to little objects like staplers and roles of tapes. 
+  - Student Consultants
+    - As paid employees, student consultants are the most important assets at the IT Help Desk. We oversee dealing with customers and are responsible for the state of the room at any point in time. We should always be healthy and happy!
+  - Client Property & Data
+    - Clients can walk-in with a variety of problems from broken computers to Wi-Fi connectivity issues. Their devices and data are an important asset we must work to protect. 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - People Borrowing Equipment
+    - Sometimes, we loan people USB sticks or adapters. It is possible people forget to return the borrowed items. We can take this one step further and even combat the threat of purposeful stealing. Furthermore, many times, people ask to borrow our hole-punchers or staplers and forget to bring those items back too.
+  - People Verbally/Physically Abusing Student Workers
+    - Student workers have the same rights and powers as any member of the OIT department at Rice. We must ensure no client or passerby verbally or physically harasses anybody on shift. 
+  - Losing/Corrupting/Damaging Client Property/Data
+     - Clients can sue us if we damage their devices outside of normal wear and tear associated with repair. 
+     - As for data, there are specific federal laws that protect client data. We must ensure client data is not leaked/corrupted/lost once a laptop or other device is checked-in to the IT Help Desk for repair. If we aren't careful, we can end-up in serious legal trouble.
+  - Clients Reporting Consultants to Management
+    - For justified or unjustified reasons, clients can report consultants to management, and this may result in the consultant losing their job. 
+  - Clients Getting Hurt
+    - This may occur due to dangling wires. There are many wires snaking around the room, and some are hard to see and easy to trip over. 
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
-
+  - Have a Deposit in Place to Borrow Equipment
+    - We can enforce a policy where anyone wanting to borrow adapters or staplers or whatnot have to put down their ID or watch that we will return when they bring back the borrowed item. This is extremely easy and cheap to implement and has proven effective in many other situations (think boba shops that have board games available for check-out).
+  - Have a Camera in Place
+    - If the camera is in an easy to spot location, customers will be less likely to become belligerent because they are being recorded and monitored. This will also protect the department if any legal action is taken. Finally, in the case that a client reports a consultant to management, we will have video proof of the situation.
+  - Ask Clients to Sign Liability Waiver
+    - This is essential because it will allow consultants complete freedom when opening and working on laptops. If anything goes wrong, we are legally protected under the liability waiver. This is very cheap to implement and defends us against potential lawsuits. 
+  - Tape Down Wires
+    - By using clips and tape, we can bundle wires together and put them out of sight. This will increase safety in the workplace and make the room look less busy, in general. 
