@@ -55,7 +55,7 @@ please cut-and-paste the text from that email here._
   - Box Seats Being Sabotaged 
     - Many companies and high-profile organizations have box seats at stadiums. We should protect these box suites especially as they are often the result of highly profitable parternships and sponsorships. 
 - Countermeasures:
-  - Having Security At Many Locations
+  - Having Security at Many Locations
     - We would want to have a special team assigned to the parking lot to ensure safety of the cars and other personal belongings. Police stationed here would also decrease the sale of illegal tickets. This in turn would increase public trust and potential revenue from legal, direct-from-stadium or through verified partner sales. 
     - We would also want to have security at the many stadium entrances to check bags and people as they enter the premises, as well as security around the walkways connecting the stadium seats to the concession stands and other stalls. This would also protect people in the box suites. Seeing people in uniform all around the stadium has two benefits: actual safety and believed safety, meaning people will be more likely to show-up to and stay at games. 
   - Ensuring Newest Technologies
@@ -68,18 +68,47 @@ please cut-and-paste the text from that email here._
     - We should make sure we have rigorous background-checks and psychological assessments conducted of our staff members on a regular basis (maybe every year). We should also ensure we are using secure credentials like badges and pin codes. Re-vetting staff is a costly procedure and has many administrative costs. Of all the countermeasures I propose, this should be implemented last as it has only a moderate benefit, compared to the significant cost.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: {TSA}
 - Assumptions:
-  - explain_your_assumptions
+  - I assume we are considering a TSA checkpoint at a major airport hub with many lanes, scanners, and staff. Further, I assume we are analyzing this checkpoint in the afternoon, around when the airport is busiest. 
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - TSA Staff
+    - We need to ensure the safety of all TSA staff. Though it is illegal to assault an officer, we want to make sure the staff always feel safe and in control. The rules only matter if most people follow them so by protecting TSA staff, we are also implicitly protecting the general public.
+  - Passengers
+    - Most importantly, we need to protect the civilian passengers as they cross the checkpoint. Many passengers travel with little kids, so we need to make sure everyone remains safe. Often, the lines can get long, and people can get impatient, we want to crowd-control as effectively as possible. 
+  - Property
+    - People
+        - People's bags will go through the screening machines and should arrive at the other side in perfect condition. This means nothing in the machine should damage the items passing through. Also, if a further, manual inspection is needed, we must ensure the officer doesn't misplace or break anything. 
+    - Airport
+        - Everything from the mats to the stanchions and metal detectors are all airport property. After a full day of checkpoint screening, all equipment should be in the same shape as when the day started. 
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Crimes
+    - Vandalism/Damage
+        - We would want to protect the security checkpoint from any vandalism and damage. Further, we must ensure any people's personal belongings as well as airport property in general are not affected. Otherwise, our checkpoint may become less secure and look physically unappealing. 
+    - Violence
+        - We want to protect airport staff from any potential violence by civilians. Further, we want to ensure the safety of civilians from each other. There should be no pushing/shoving in the lines.
+    - Terrorism
+        - Of course, we want to screen all bags and people for weapons or other items of threat. After 9/11 security has amped up but we always want to be alert and aware. 
+  - Causing Physical Pain
+    - When going through security, we are told to take off our shoes and coats and whatnot. For one, the floor should be sweeped and clear from any objects that may penetrate through our feet. Moreover, we are told to put our belongings in little plastic buckets. One potential risk is buckets falling off the conveyor belt and hurting us. 
+    - When officers do a 'pat-down,' they must ensure they are not hurting anyone by being too aggressive.
+  - Invading Personal Bubbles
+    - We should try to pair women with women and men with men when performing 'pat-downs' to maximize how comfortable the civilian feels. At no point, should the person in question feel violated.
+  - People with TSA Pre-Check or Clear/Flight Staff
+    - These people have faster access and less screening when passing through security. We must ensure their credentials are accurate and that their background checks haven't expired.
+  - Racial Profiling
+    - We need to be extremely mindful of racial bias and profiling when 'randomly selecting' people for additional screening.
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - Having Information on Criminal Prosecution Displayed
+    - Provide information on penalties for hurting an officer, another civilian, or airport property to dissuade people from engaging in these types of behaviors. 
+  - Having Various Security Staff Positioned Around the Area
+    - This will increase traffic flow as the officers can redirect people to different lines when necessary, while decreasing the possibility of unseen criminal activity like violence. Additionally, officers in charge of the plastic bins will minimize the chances that people get hurt from boxes falling to the ground. 
+  - Investing in the Best Technologies
+    - This pertains to the metal detectors and body scanners. We must ensure we use state-of-the-art equipment to minimize the chances of someone entering with weapons or other potential threats. Though this may be costly in the short-term, the investment becomes worth it in the long-term. Saving lives and planes will save a lot of money down the line.
+  - Training TSA Officers
+    - First and foremost, we need to train our officers to handle the equipment. However, we must also train them to respect civilians when performing searches. Officers should be aware of their own biases and the existence of racial profiling in general. The educational measures shouldn't be too expensive and will safeguard against the possibility of people feeling disrespected and uncomfortable. 
+  - Ensuring Frequent Background Checks
+    - For airline staff and those with pre-check/Clear, we need to ensure their credentials are in order and that their information has been freshly verified. This will ensure people don't abuse the system and slide through security through a faster, more convenient channel. The thoroughness of security should be constant in both scenarios. 
 
 ## Problem 3
 - Scenario: Your choice (give a brief explanation)
